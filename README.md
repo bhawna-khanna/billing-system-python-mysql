@@ -1,5 +1,3 @@
-# billing-system-python-mysql
-
 # Billing System using Python & MySQL 🧾
 
 This project is a simple **Billing / Invoice System** built using **Python and MySQL**.  
